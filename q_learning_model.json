@@ -1,0 +1,507 @@
+{
+    "100000    https://www.akpsi.org/donations/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100001    https://www.akripol.si/en/mreza/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100002    https://www.akripol.si/en/podjetje/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.91
+    },
+    "100003    https://www.akrofire.com/MohawkWovenNylonCarpe...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.473321344609,
+        "S\u00fbr": 0
+    },
+    "100004    https://www.akron.com/20060921/wsl57.asp\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100005    https://www.akron.com/akron-ohio-entertainment...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "100006    https://www.akronartmuseum.org/exhibitions/det...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100007    https://www.akrondesign.com/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "100008    https://www.akronohioonline.com/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100009    https://www.akronohrealestate.info/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100010    https://www.akshay-kumar-wallpapers.info/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100011    https://www.akufen.ca/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100012    https://www.akwarner.com/sade/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100013    https://www.al-airliners.be/k-o/mohawk/mohawk.htm\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100014    https://www.al-anon-montreal.org/H20reunionsan...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100015    https://www.al-islam.org/beliefs/philosophy/op...\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.3779104490999998,
+        "S\u00fbr": 0
+    },
+    "100016    https://www.al.com/auburnbasketball/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100017    https://www.al.com/birminghamnews/\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.4643640900000001,
+        "S\u00fbr": 0
+    },
+    "100018    https://www.al.com/entertainment/birmingham/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.8209
+    },
+    "100019    https://www.al.com/entertainment/index.ssf/200...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100020    https://www.al.com/forums/music/index.ssf?arti...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.8209,
+        "S\u00fbr": 0
+    },
+    "100021    https://www.al.com/news/birminghamnews/metro.s...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.732691
+    },
+    "100022    https://www.al.com/news/mobile/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.8209
+    },
+    "100023    https://www.al.com/newsflash/index.ssf/story/k...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100024    https://www.al.com/sports/index.ssf/2011/02/as...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.6453640900000001,
+        "S\u00fbr": 0
+    },
+    "100025    https://www.al.com/sports/index.ssf/2011/03/ja...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.6453640900000001,
+        "S\u00fbr": 0
+    },
+    "100026    https://www.al.com/sports/index.ssf/2011/04/no...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "100027    https://www.al.com/sports/index.ssf/2011/05/di...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -1.0
+    },
+    "100028    https://www.al.com/sports/index.ssf/2011/07/na...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100029    https://www.al.com/sports/index.ssf/2011/09/te...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.91
+    },
+    "100030    https://www.al.com/sports/index.ssf/2011/11/es...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.8209
+    },
+    "100031    https://www.al.com/sports/index.ssf/2011/11/es...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100032    https://www.al3d.net/ea_montreal.htm\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100033    https://www.ala.org/Template.cfm?Section=award...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.732691
+    },
+    "100034    https://www.ala.org/ala/aboutala/missionhistor...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100035    https://www.ala.org/ala/aboutala/offices/ppo/p...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100036    https://www.ala.org/alsc/awardsgrants/bookmedi...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100037    https://www.ala.org/alsc/awardsgrants/bookmedi...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100038    https://www.alaa.se/work/yoopa/\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.2183323490999998,
+        "S\u00fbr": 0
+    },
+    "100039    https://www.alabamajapanesechinbreeders.com/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100040    https://www.alabamarealestatecompanies.com/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.732691,
+        "S\u00fbr": 0
+    },
+    "100041    https://www.alabamawx.com/?p=26076\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.91
+    },
+    "100042    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -1.0,
+        "S\u00fbr": 0
+    },
+    "100043    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.8209
+    },
+    "100044    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100045    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100046    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.6453640900000001
+    },
+    "100047    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "100048    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "100049    https://www.alacrastore.com/company-snapshot/A...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.6453640900000001
+    },
+    "416254    http://patelmunaf.com/adobe/adobe/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416255    http://outersansai.id/443/www/login/sign-in/si...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416256    http://atrading.akid.website/wp-admin/css/colo...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416257    http://sdn04kaligelang.sch.id/css/home/2a49c42...\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -0.6453640900000001,
+        "S\u00fbr": -0.6453640900000001
+    },
+    "416258    https://tiendavirtual.mytexcon.com/wp-admin/cs...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.473321344609,
+        "S\u00fbr": 0
+    },
+    "416259    https://tiendavirtual.mytexcon.com/wp-admin/cs...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416260    http://islapartmentandhotel.com/www.paypal.com...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416261    http://jeeyoonfoodservices.com/chrikiista.php\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.91
+    },
+    "416262    http://scotts.co.place/wp-content/themes/baalh...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416263    http://islapartmentandhotel.com/www.paypal.com...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416264    http://locasiga.com.br/wp-content/signin/custo...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416265    http://locasiga.com.br/wp-content/signin/custo...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416266    http://papush.net/sites/default/files/freret/\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.5589104490999999,
+        "S\u00fbr": 0
+    },
+    "416267    http://banco-nacion-ar.online/idconnection8938...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416268    http://banco-nacion-ar.online/idconnection8938...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416269    http://bestchanle.net.ru/\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.0,
+        "S\u00fbr": -0.6453640900000001
+    },
+    "416270    https://mlscores.000webhostapp.com/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416271    https://sites.google.com/view/newrecovery-help/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416272    http://protect-users.esy.es/facebook-confirm\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.91,
+        "S\u00fbr": 0
+    },
+    "416273    http://protect-users.esy.es/facebook/\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -0.732691,
+        "S\u00fbr": -0.732691
+    },
+    "416274    http://badwolfvape.com/cgi/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416275    http://bestchanke.pp.ru/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416276    http://papaaaor.beget.tech\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416277    http://trep456.beget.tech\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416278    https://philharmonic-cheek.000webhostapp.com/v...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "416279    https://sites.google.com/site/aporsconfrimpages/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416280    https://goo.gl/qnbaeN\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416281    https://appleid.apple.com-support.rasahsepanen...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416282    http://foaming-indication.000webhostapp.com/vi...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416283    http://filldata.s179.coreserver.jp/banana/cust...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416284    https://verifikasi9021.wixsite.com/mysite\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416285    http://bestchanke.org.ru/\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.2183323490999998,
+        "S\u00fbr": 0
+    },
+    "416286    https://atrading.akid.website/wp-admin/css/col...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416287    http://asiatechno.kz/admin/document/version/cl...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416288    http://alterative-heater.000webhostapp.com/hom...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": -0.91,
+        "S\u00fbr": 0
+    },
+    "416289    http://benandbear.com/ss/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416290    https://nano.do/deduct-immensely-ding\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -1.2977204490999998,
+        "S\u00fbr": 0
+    },
+    "416291    https://www.mailing027.gq/ib.absa.x/passcode_v...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416292    https://secure.runescape.com-l.cz/m=weblogin/l...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416293    https://serviceguru.in/interessa/HT65T/index.php\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416294    https://review.cubicfrogapps.com/.well-known/a...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416295    https://www.mailing027.cf/ib.absa/iAwIj4NCgkJC...\nName: url, dtype: object": {
+        "Frauduleux": 4.900995010000001,
+        "Suspect": -0.91,
+        "S\u00fbr": -0.732691
+    },
+    "416296    http://coreses.000webhostapp.com/scures.htm\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416297    http://www.directregelen.org/abn%20amro/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416298    http://www.mydocomo-smt-contact.com/\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416299    https://abacubic.com/.logs/details/www.america...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416300    https://umarbgs.com/support/b9e5569b4ac4e89ce9...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416301    http://www.vub360.net/verify.htm\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416302    http://bbva-movil-r.com/Cliente/Alertas/ES1394...\nName: url, dtype: object": {
+        "Frauduleux": 6.793465209301001,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    },
+    "416303    http://thompsonsquare.ca/wp-includes/js/jquery...\nName: url, dtype: object": {
+        "Frauduleux": 5.8519850599000005,
+        "Suspect": 0,
+        "S\u00fbr": -0.5589104490999999
+    },
+    "0117530043703878": {
+        "Frauduleux": -1.0,
+        "Suspect": 0,
+        "S\u00fbr": 0
+    }
+}
